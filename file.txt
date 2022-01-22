@@ -1,0 +1,1 @@
+Darwin Rishabhs-MacBook-Pro.local 19.6.0 Darwin Kernel Version 19.6.0: Sun Nov 14 19:58:51 PST 2021; root:xnu-6153.141.50~1/RELEASE_X86_64 x86_64
